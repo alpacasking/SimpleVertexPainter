@@ -1,5 +1,5 @@
 # Simple Vertex Painter
-A simple plugin for unity,to paint vertex color 
+A simple plugin for unity,to paint vertex color.Tested on Unity 2019.2.8f1.
 
 ![screenshot](https://github.com/alpacasking/SimpleVertexPainter/blob/master/screenshot.png "screenshot")
 
