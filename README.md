@@ -1,7 +1,7 @@
 # SimpleVertexPainter
 A simple plugin for unity,to paint vertex color 
 
-![screenshot] (https://github.com/alpacasking/SimpleVertexPainter/blob/master/screenshot.png)
+![screenshot] (https://github.com/alpacasking/SimpleVertexPainter/blob/master/screenshot.png?raw=true)
 
 ## Feature
 - Mesh,Skinned Mesh Vertex Paining
